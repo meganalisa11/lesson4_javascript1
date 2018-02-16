@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 16th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Hubbard)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we put our basic Javascript knowledge to the test by editing code for an expense calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://meganalisa11.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to declare variables in Javascript considering that it is a loosely typed language.)
+2. (Learned different methods and elements that go along with Javascript such as parseFloat.)
+3. (Learned about the use of the clearForm method that ties together the HTML for the 'Clear Form' button with the actual action of clearing the form through Javascript)
 
 
 
